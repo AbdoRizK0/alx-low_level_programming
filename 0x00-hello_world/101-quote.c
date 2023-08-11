@@ -1,8 +1,8 @@
 #include <unistd.h>
- /**
-  * main - main function
-  * Return: always 0
-  */
+/**
+* main - Main function
+* Return: always 0
+*/
 
 int main(void)
 {
