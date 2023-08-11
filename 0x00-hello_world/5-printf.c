@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Description: gg well played
+ * description: c'mon brh
  *
- * Return : always 0 (success)
+ * Return: always 0 (success)
 */
 
 int main(void)
