@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include<stdio.h>
+
 
 /**
  * main - solve it
@@ -11,20 +12,17 @@
 int main(void)
 {
 	int digit = 0;
-
 	while (digit <= 9)
 	{
 		putchar(digit + 48);
-
 		if (digit != 9)
-		}
+		{
 			putchar(',');
-			putchar(' ');
+			putchar(',');
 		}
 
 		digit++;
 	}
 	putchar('\n');
-
 	return (0);
 }
