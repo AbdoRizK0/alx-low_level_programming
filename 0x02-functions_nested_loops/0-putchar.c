@@ -1,6 +1,6 @@
-#include <main.h>
+#include "main.h"
 
-/*
+/**
  * main - sloving
  *
  * Description: printing
