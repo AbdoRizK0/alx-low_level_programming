@@ -4,12 +4,12 @@
  * print-alphabets [a...z]
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	int zon;
+	int ch;
 
-	for (zon = 'a'; ch <= 'z'; zon++)
-		_putchar(zon);
+	for (ch = 'a'; ch <= 'z'; ch++)
+		_putchar(ch);
 	_putchar('\n');
 
 }
