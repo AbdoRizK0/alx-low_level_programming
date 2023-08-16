@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print-alphabets_x10 - printed 10 times
+ * print_alphabets_x10 - printed 10 times by function
+ *
+ *
  *
 */
-
 void print_alphabet_x10(void)
 {
 	int line, ch;

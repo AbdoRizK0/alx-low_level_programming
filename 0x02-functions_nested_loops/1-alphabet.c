@@ -1,10 +1,10 @@
 #include"main.h"
 
-/**
- * printing a-z with _putchar
- *                 pls fukkin work fukkin betty bitch
- *
-*/
+
+/*
+ * print_alphabet - utilizes on the _putchar function to print
+ *                 the alphabet a - z
+ */
 
 void print_alphabet(void)
 {
