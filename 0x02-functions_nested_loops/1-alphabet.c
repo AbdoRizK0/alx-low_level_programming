@@ -1,8 +1,10 @@
-#include "main.h"
+#include"main.h"
 
 /**
- * print-alphabets [a...z]
- */
+ * printing a-z with _putchar
+ *                 pls fukkin work fukkin betty bitch
+ *
+*/
 
 void print_alphabet(void)
 {
