@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * _put_recursion - prints a string
+ * _puts_recursion - prints a string
+ * @s: pointer to the string
  * Return void
  */
 
@@ -13,7 +14,7 @@ void _puts_recursion(char *s)
 	}
 	else
 	{
-		_putchar(*S);
+		_putchar(*s);
 		_puts_recursion(s + 1);
 	}
 }
